@@ -1,2 +1,0 @@
-# PostmanCertificate
-Certificate
